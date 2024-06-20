@@ -25,6 +25,7 @@ export default [
       ".npmignore",
       ".prettierignore",
       ".eslintignore",
+      "tsconfig.json",
     ],
     env: {
       jest: true,
